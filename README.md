@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hello, My name is Shayan Kamali!
 
-<!--
-**ShayanKml/ShayanKml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am <b>MSc student</b> in <b>Water Engineering</b> at the [<b>Dresden University of Technology</b>](https://tu-dresden.de/?set_language=en), fluent in English and intermediate knowledge in German, as well as having <b>experience in Data Analysis with Python and R</b>. Looking for a relevant internship to use and boost my skills as well as my work experience. Highly determined, motivated to learn, and successfully completed tasks in a specific time frame.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img width="500" height="500" src="https://raw.githubusercontent.com/ShayanKml/ShayanKml/main/hi.gif">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My main research interests
+- Water Resources Management
+- Flood Risk Management and Uncertainties
+- Climate Change and Urban Climate
+- Hydraulic Structures
+- Artificial Intelligence
+
+
+
+## Contact information:
+| Social Networks  | 🔗 Link          |
+|-----------|--------------------|
+| 📧 𝙏𝙝𝙚 𝘽𝙚𝙨𝙩 𝙒𝙖𝙮 𝙩𝙤 𝙍𝙚𝙖𝙘𝙝 𝙈𝙚 👉 | Shayank1375@gmail.com |
+|  [Linkedin](https://www.linkedin.com/in/shayankamali/) |  |
+
+
+
+
+## More
+
+
+| GitHub Stats  | Languages          |
+|-----------|--------------------|
+| <p><img src="https://github-readme-stats.vercel.app/api?username=ShayanKml&amp;show_icons=true" alt="GitHub Stats"></p> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShayanKml&layout=compact)](https://github.com/ShayanKml/github-readme-stats) |
