@@ -13,11 +13,10 @@ I am <b>MSc student</b> in <b>Water Engineering</b> at the [<b>Dresden Universit
 ---
 
 ## My main research interests
-- Water Resources Management
-- Flood Risk Management and Uncertainties
-- Climate Change and Urban Climate
-- Hydraulic Structures
-- Artificial Intelligence
+- Data Science and Data Engineering
+- Smart Cities and Urban Digitalization
+- Climate Change and Renewable Energy
+- Artificial Intelligence in Sustainable Cities
 
 
 
