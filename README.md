@@ -1,6 +1,6 @@
 ## Hello, My name is Shayan Kamali!
 
-I am <b>MSc student</b> in <b>Water Engineering</b> at the [<b>Dresden University of Technology</b>](https://tu-dresden.de/?set_language=en), fluent in English and intermediate knowledge in German, as well as having <b>experience in Data Analysis with Python and R</b>. Looking for a relevant internship to use and boost my skills as well as my work experience. Highly determined, motivated to learn, and successfully completed tasks in a specific time frame.
+I am a graduate <b>MSc student</b> in <b>Water Engineering</b> at the [<b>Dresden University of Technology</b>](https://tu-dresden.de/?set_language=en), fluent in English and intermediate knowledge in German, as well as having <b>experience in Data Analysis with Python and R</b>. Looking for a relevant internship to use and boost my skills as well as my work experience. Highly determined, motivated to learn, and successfully completed tasks in a specific time frame.
 
 <!--
 
