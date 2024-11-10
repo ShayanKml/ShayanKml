@@ -14,9 +14,9 @@ I am a graduate <b>MSc student</b> in <b>Water Engineering</b> at the [<b>Dresde
 
 ## My main research interests
 - Data Science and Data Engineering
-- Smart Cities and Urban Digitalization
+- Smart Cities and Urban Sustainability
+- Hydraulic Engineering and Integrated Water Resources Management Systems
 - Climate Change and Renewable Energy
-- Artificial Intelligence in Sustainable Cities
 
 
 
